@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZRCR_C_CONNECTION'
+define service ZRCR_CONNECTION {
+  expose ZRCR_C_CONNECTION as NameConnection;
+}
